@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "ZeDQ Admin",
+    "slug": "ZeD-QA",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/BKLOGO.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#00334e"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "icon": "./assets/icon.png",
+      "package": "com.bluekaktus.Slite",
+      "versionCode": 1,
+      "permissions":[],
+      "googleServicesFile": "./google-services.json",
+      "useNextNotificationsApi": true
+    },
+    "ios": {
+      "icon": "./assets/icon.png",
+      "bundleIdentifier": "com.bluekaktus.Slite",
+      "buildNumber": "1.0.0",
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

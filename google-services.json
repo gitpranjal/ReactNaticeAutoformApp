@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1001055792366",
+    "project_id": "bkqualitylite",
+    "storage_bucket": "bkqualitylite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001055792366:android:7c33ad95ecac608c8057ff",
+        "android_client_info": {
+          "package_name": "com.bluekaktus.Slite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001055792366-7jr88bl793p6kuhrsb9uhhkme3fqqid0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Emgq8wOwlZERBCYWMxII41h4wHtFiqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001055792366-7jr88bl793p6kuhrsb9uhhkme3fqqid0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
